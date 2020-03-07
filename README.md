@@ -1,5 +1,3 @@
-Here you will find the 23 (GoF) design patterns implemented in JavaScript using both prototype and ES6 classes. You can use the [**docs.md**](docs.md) to quicky overview the examples.
-
 Follows the list of patterns separed by type:
 
 ### Creational Patterns
